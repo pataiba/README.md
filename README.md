@@ -51,3 +51,5 @@ I am a Software Engineer, Machine Learning Engineer, and Cloud Enthusiast. I pri
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-white?style=flat-square&logo=ApacheSpark)
 ![C#](https://img.shields.io/badge/-CSharp-430098?style=flat-square&logo=.net)
 ![C++](https://img.shields.io/badge/-C++-white?style=flat-square&logo=C)
+
+Leone Pataíba.
